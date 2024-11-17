@@ -6,7 +6,7 @@
 /*   By: reriebsc <reriebsc@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/15 19:21:52 by reriebsc          #+#    #+#             */
-/*   Updated: 2024/11/17 11:56:46 by reriebsc         ###   ########.fr       */
+/*   Updated: 2024/11/17 17:45:11 by reriebsc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,7 +37,7 @@ void	ft_draw01(int x, char p1, char p2, char p3)
 	ft_putchar('\n');
 }
 
-void	rush01(int x, int y)
+void	rush(int x, int y)
 {
 	int	y_count;
 
