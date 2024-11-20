@@ -6,7 +6,7 @@
 /*   By: reriebsc <reriebsc@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/15 19:21:52 by reriebsc          #+#    #+#             */
-/*   Updated: 2024/11/17 17:44:53 by reriebsc         ###   ########.fr       */
+/*   Updated: 2024/11/17 19:52:46 by reriebsc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,7 +25,7 @@ void	ft_draw04(int x, char p1, char p2, char p3)
 		}
 		else
 		{
-			if (x_count == x -1)
+			if (x_count == x - 1)
 			{
 				ft_putchar(p3);
 			}
